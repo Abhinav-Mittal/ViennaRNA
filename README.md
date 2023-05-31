@@ -6,7 +6,7 @@
 [![Conda Downloads](https://img.shields.io/conda/dn/bioconda/viennarna.svg)](https://anaconda.org/bioconda/viennarna)
 [![AUR](https://img.shields.io/aur/version/viennarna.svg)](https://aur.archlinux.org/packages/viennarna/)
 
-# ViennaRNA Package
+# ViennaRNA Package Not Anymore
 
 A C code library and several stand-alone programs for the prediction and comparison of RNA secondary structures.
 
