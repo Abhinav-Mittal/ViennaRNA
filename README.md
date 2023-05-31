@@ -39,7 +39,7 @@ See the [NEWS](NEWS) and [CHANGELOG.md](CHANGELOG.md) files for changes between 
 
 ----
 
-## Table of Contents
+## Table of CONTENT
 1. [Availability](#availability)
 2. [Installation](#installation)
 3. [Configuration](#configuration)
